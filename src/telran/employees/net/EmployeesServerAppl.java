@@ -6,7 +6,7 @@ import telran.employees.services.EmployeesMethods;
 import telran.employees.services.EmployeesMethodsMapsImpl;
 import telran.net.TcpServer;
 
-public class EmployeesServerAppl {
+public class EmployeesServerAppl {   
 private static final int TIMEOUT = 1000;
 
 public static void main(String[] args) throws Exception{

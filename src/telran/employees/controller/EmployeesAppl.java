@@ -7,7 +7,7 @@ import telran.net.Sender;
 import telran.net.TcpSender;
 import telran.view.*;
 import java.io.*;
-public class EmployeesAppl {
+public class EmployeesAppl { 
 private static final String DEFAULT_FILE_NAME = "employees.data";
 private static final Object DATA_FILE_PROPERTY = null;
 static Map<String, String> properties;
